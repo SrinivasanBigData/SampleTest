@@ -1,1 +1,6 @@
 i hellow
+Nowadays, the GitHub pull request makes it really easy to apply patches on GitHub repos, which is useful when you aren't a direct contributor (ie you have no right to directly push to a repo).
+Actually, fairly recently GitHub introduced "Better Pull Request Emails" to improve the notification of new patches.
+
+http://stackoverflow.com/questions/8279602/what-is-a-patch-in-git-version-control
+
